@@ -1,5 +1,5 @@
 
-[![Postman Docs](https://img.shields.io/badge/Postman-Documentation-orange)](https://www.postman.com/https://documenter.getpostman.com/view/42232811/2sB3BDHqeM)
+[![Postman Docs](https://documenter.getpostman.com/view/42232811/2sB3BDHqeM)](https://documenter.getpostman.com/view/42232811/2sB3BDHqeM)
 
 
 # TaskFlow API
